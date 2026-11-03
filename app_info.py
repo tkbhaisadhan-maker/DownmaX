@@ -1,0 +1,5 @@
+APP_NAME = "Downmax"
+VERSION = "1.0.0"
+TAGLINE = "Download videos & MP3 from any link"
+DEVELOPER = "TKsadhan"
+CONTACT = "sadhanpatar@gmail.com"
